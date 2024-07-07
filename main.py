@@ -6,6 +6,7 @@ import pandas as pd
 import io
 import magic
 
+#esta opcion conecta ala base de datos
 
 DATABASE = 'biblioteca.db'
 
