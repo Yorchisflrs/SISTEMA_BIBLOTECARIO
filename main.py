@@ -4,6 +4,8 @@ from PIL import Image, ImageTk
 import sqlite3
 import pandas as pd
 import io
+import magic
+
 
 DATABASE = 'biblioteca.db'
 
